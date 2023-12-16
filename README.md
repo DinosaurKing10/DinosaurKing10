@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![This is me](https://github.com/DinosaurKing10/DinosaurKing10/blob/main/159183073_1857610904402571_288485425016687746_n.png)
 
 **DinosaurKing10/DinosaurKing10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
