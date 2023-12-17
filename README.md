@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## Contact:
 - [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJlHDWXQvhFVHxKlTwcpJPrjCrfMhMdxGJBZdBQCdzTXXmCbbBqXvNNndfpTgvMBsNCPcRL)
-- [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([linkedin.com/in/sebastián-fahara-643aa3162](https://www.linkedin.com/in/sebasti%C3%A1n-fahara-643aa3162/))
+- [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sebastián-fahara-643aa3162)
 ### Languages I use:
 - ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
